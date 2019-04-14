@@ -1,0 +1,6 @@
+sll	$s2,$s1,1 # comment(1)
+srl	$a3,$t1,-23
+sra	$v1,$s1,$t8
+sllv	$s0,$s1,$s2 # comment(2)
+srlv	$gp,$s1,123123
+srav	$s1,$zero,$s2

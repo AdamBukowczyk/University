@@ -1,0 +1,8 @@
+lui	$3, $15 # comment(75)
+addi	$28, $3, $21 # comment(76)
+addiu	$17, $26, 18038
+slti	$21, $2, $10 # comment(79)
+sltiu	$6, $19,67 # comment(83)
+andi	$13, $2, 672
+ori	$5, $10, $26
+xori	$s0,$s1,-12

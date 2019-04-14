@@ -1,0 +1,8 @@
+mult	$t1,$s1
+multu	$t2,$s2
+div	$t3,$s3
+divu	$t4,$s4
+mfhi	$s1
+mthi	$a2
+mflo	$v1
+mtlo	$k1

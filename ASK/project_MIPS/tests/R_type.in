@@ -1,0 +1,10 @@
+add	$19,$27,27735
+addu	$7,$21,-29605
+sub	$23,$8,5 # comment(1)
+subu	$1,$12,17796 # comment(2)
+and	$14,$0,$27 # comment(3)
+xor	$1,$16,22491 # comment(4)
+or	$12,$15,$29 # comment(5)
+nor	$t5,$t4,2
+slt	$18,$13,$4 # comment(6)
+sltu	$19,7897,$t5
